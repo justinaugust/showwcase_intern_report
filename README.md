@@ -94,4 +94,8 @@ Checks for top users (10) and bottom users (1 session per month) were made and v
 - Comment content analysis
 - Likes content analysis
 
+## Cluster Analysis
+
+This data could benefit from a cluster analysis (K-means or other) to help identify potential user profiles that are using the platform and help us to create model user profiles to target with marketing and ads on other platforms.
+
 
