@@ -2,14 +2,6 @@
 
 ## *Prepared by Justin August*
 
----
-
-{{TOC}}
-
----
-
-+++
-
 # Overview & Highlights
 
 Given data from October 2019, Engagement Analysis was conducted.
@@ -54,8 +46,6 @@ Checks for top users (10) and bottom users (1 session per month) were made and v
 - 48 unique users
 - Top 10 users account for 55% of sessions
 - 18 users have only  1 session
-
-+++
 
 ## Top User Profiles
 
